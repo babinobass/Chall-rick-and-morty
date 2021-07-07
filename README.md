@@ -1,5 +1,6 @@
 # Challenge Rick and Morty
-_Challenge con React y GraphQL en el cual se tenia que hacer request a una API de Rick and Morty
+_Challenge con React y GraphQL en el cual se tenia que hacer request a una API de Rick and Morty.
+
 Se le dio prioridad al funcionamiento antes que a los estilos_
 
 ## Para ejecutar
