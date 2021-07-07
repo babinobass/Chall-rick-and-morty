@@ -14,7 +14,7 @@ function App() {
       <Route exact path='/character/:name/:pages' component={Home} />
       <Route exact path='/location/:idLocation' component={Location} />
       <Route exact path='/episode/:idEpisode' component={Episode} />
-      <footer> <a href="https://github.com/babinobass" >github </a></footer>
+      <footer> <a href="https://github.com/babinobass/Chall-rick-and-morty" >github </a></footer>
     </>
   );
 }
