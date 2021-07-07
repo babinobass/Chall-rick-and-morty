@@ -1,0 +1,34 @@
+.M-container {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.185);
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
+
+.M-subContainer {
+    width: 100%;
+    height: 100%;
+}
+
+.modal {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    margin: 0 auto;
+    margin-top: 16vh;
+    background-color: white;
+    width: max(20rem, 30vw);
+    height: 30rem;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.x {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}

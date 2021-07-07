@@ -1,0 +1,14 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border: solid 1px rgb(117, 117, 117);
+    width: max-content;
+    margin: 1rem;
+    background-color: white;
+}
+
+.listBtn {
+    cursor: pointer;
+    font-weight: bold;
+}
