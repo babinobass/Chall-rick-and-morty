@@ -33,7 +33,7 @@ _Se requiere una pantalla donde se muestren los detalles de una location basado 
 ### 4
 Se debe poder desplegar la aplicación en un servidor (netifly, firebase, now.sh, etc)
 
-- Se deloyo en Vercel https://chall-rick-and-morty.vercel.app/
+- Se deployo en Vercel https://chall-rick-and-morty.vercel.app/
 
 ### 5
 Se debe poder correr en otra computadora al momento de clonar la aplicación, es decir debe ser dockerizable (preferentemente usar docker y docker-compose).
